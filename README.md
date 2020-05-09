@@ -2,7 +2,7 @@
 - You must have PyTorch and a few other libraries installed
 - The directory must look like this:
 
-`~/folder/ANFIS-SP1M  $ python ANFISPyTorch.py`  
+~/folder/ANFIS-SP1M  $ `python ANFISPyTorch.py`  
 | -- `..`  
 | -- `ANFISPyTorch.py`  
 | -- `dataset_utils.py`  
