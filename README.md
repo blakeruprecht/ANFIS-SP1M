@@ -1,5 +1,5 @@
 ## Run the Code
-- You must have PyTorch and a few other libraries installed
+- You must have PyTorch and a few other libraries installed (numpy, pandas, math, tqdm, matplotlib, etc.)
 - The directory must look like this:
 
 ~/folder/ANFIS-SP1M  $ `python ANFISPyTorch.py`  
