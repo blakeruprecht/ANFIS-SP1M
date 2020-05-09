@@ -46,11 +46,6 @@
 
 # OUR LIBRARIES ----------------------------------------------------------------
 from dataset_utils import Format_Dataset
-from Choquet_integral_nn_torch import Choquet_integral
-from Choquet_integral_nn_torch import sources_and_subsets_nodes
-from Choquet_integral_nn_torch import subset_to_indices
-import pyds
-from pyds import MassFunction
 
 # OTHER LIBRARIES --------------------------------------------------------------
 import torch
